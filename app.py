@@ -19,4 +19,4 @@ def home():
     return Response(fp.getvalue(), mimetype='audio/mpeg')  # 바로 음성 스트리밍
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=80)
+    app.run(host='0.0.0.0', port=6000)
