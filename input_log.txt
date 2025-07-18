@@ -1,0 +1,6 @@
+[2025-07-17 17:02:51] text: 남상훈, lang: ko
+[2025-07-17 17:34:01] text: dwqe, lang: ko
+[2025-07-17 17:37:24] text: hello, lang: ko
+[2025-07-17 17:43:31] text: 남상훈, lang: ko
+[2025-07-17 18:38:28] text: dddd, lang: ko
+[2025-07-17 18:38:33] text: 아녕, lang: ko
